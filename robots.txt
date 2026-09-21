@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chatgpt-student-discount.github.io/sitemap.xml
