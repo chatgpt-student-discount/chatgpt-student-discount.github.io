@@ -21,4 +21,5 @@ If you are a student deciding where a limited budget goes, start from what is ve
 *This is an independent page written by a third party; it is not operated by or affiliated with OpenAI, and all trademarks belong to their respective owners.*
 
 
+
 _Last reviewed: 2026-09-22_
